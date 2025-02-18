@@ -16,7 +16,7 @@ const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
   return (
     <div className="card mt-4">
       <img
-        src={`/assets/img/${doctor.imagen}`}
+        src={`src/assets/img/${doctor.imagen}`}
         alt={`Foto de ${doctor.nombre}`}
         className="card-img-top img-fluid"
         onError={(e) => {
