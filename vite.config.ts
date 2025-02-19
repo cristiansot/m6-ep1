@@ -13,7 +13,7 @@ export default defineConfig({
         description: 'Aplicación web progresiva para el hospital.',
         icons: [
           {
-            src: '/icon-192x192.png', 
+            src: 'icon-192x192.png', 
             sizes: '192x192',
             type: 'image/png',
           },
