@@ -28,3 +28,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
    ```bash
    git clone https://github.com/cristiansot/m6-ep1.git
 
+## Lighthouse
+
+![Lighthouse](src/assets/img/lighthouse.png)
+
