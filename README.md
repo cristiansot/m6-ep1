@@ -28,6 +28,16 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
    ```bash
    git clone https://github.com/cristiansot/m6-ep1.git
 
+2. **Instalar dependencias**:
+
+   ```bash
+   npm install
+
+3. **Ejecutar APP**:
+
+   ```bash
+   npm run dev
+
 ## Lighthouse
 
 ![Lighthouse](src/assets/img/lighthouse.png)
